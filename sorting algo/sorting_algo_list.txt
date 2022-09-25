@@ -1,0 +1,5 @@
+1. bubble sort
+2. insertion sort
+3. marge sort
+4. quick sort
+5. heap sort
